@@ -1,0 +1,1 @@
+# Cargo-Cult-License
