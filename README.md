@@ -5,7 +5,7 @@ VERSION 1.0, MAY 2022
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), rights
 to use, copy, modify, merge, publish, distribute, sublicense, sell, and/or
-reverse enginner the Software, and to permit persons to whom the Software is
+reverse engineer the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 1. The above copyright notice and this permission notice shall be included in
